@@ -35,31 +35,31 @@ skills on topics covered in previous years of ScriptEd years.
 
 ### HTML
 
-- [ ] `1pt` Create an `index.html` file in your fork of this repo and add the
+- [x] `1pt` Create an `index.html` file in your fork of this repo and add the
   following html to it:
-- [ ] `1pt` The title of the page should be "ScriptEd Scavengers!"
-- [ ] `1pt` There should be a header on the page that contains the text "Hello
+- [x] `1pt` The title of the page should be "ScriptEd Scavengers!"
+- [x] `1pt` There should be a header on the page that contains the text "Hello
   Studio!"
-- [ ] `1pt` There should be a smaller header on the page that contains you and your
+- [x] `1pt` There should be a smaller header on the page that contains you and your
   partner's names.
-- [ ] `1pt` Add a paragraph element with a paragraph of text from <lipsum.com>.
+- [x] `1pt` Add a paragraph element with a paragraph of text from <lipsum.com>.
 
 ### CSS
 
-- [ ] `1pt` Create an `index.css` file.
-- [ ] `1pt` Link the css file from the html file.
-- [ ] `5pt` The headers on the page should be centered, but not the other text on the
+- [x] `1pt` Create an `index.css` file.
+- [x] `1pt` Link the css file from the html file.
+- [x] `5pt` The headers on the page should be centered, but not the other text on the
   page.
-- [ ] `1pt` The headers should be in a [sans serif font] and the rest of the text
+- [x] `1pt` The headers should be in a [sans serif font] and the rest of the text
   should be a [serif font].
-- [ ] `1pt` The page should have a [taupe] background.
-- [ ] `10pt` Using CSS animate the header text to slowly change font color.
+- [x] `1pt` The page should have a [taupe] background.
+- [x] `10pt` Using CSS animate the header text to slowly change font color.
 
 ### JavaScript & jQuery
 
-- [ ] `1pt` Create an `index.js` file.
-- [ ] `1pt` Import your js file from your html file.
-- [ ] `1pt` Import a jQuery library from you html file. _Note your `index.js` file
+- [x] `1pt` Create an `index.js` file.
+- [x] `1pt` Import your js file from your html file.
+- [x] `1pt` Import a jQuery library from you html file. _Note your `index.js` file
   will use jQuery so import order matters._
 
 #### Objects & Variables
